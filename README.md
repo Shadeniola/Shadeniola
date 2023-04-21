@@ -6,11 +6,13 @@
 ### Programming Languages 
 JAVASCRIPT | TYPESCRIPT | PYTHON | HTML5 | CSS3
 
-### Frameworks
+### JavaScript Frameworks
 REACT.JS | VUE.JS | NODE.JS | NUXT.JS | VITE.JS
 </br>
+### Styling Frameworks
 TAILWINDCSS | MUI | SASS/SCSS | BOOTSTRAP
 </br>
+### Python Frameworks
 DJANGO | FLASK
 
 ### Databases
